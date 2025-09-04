@@ -1,1 +1,2 @@
 hello this is my first git file from github
+ok from my pc
